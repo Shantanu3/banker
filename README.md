@@ -1,2 +1,2 @@
 # Banker
-It is 
+It is A banking software made using PHP and SQL.
